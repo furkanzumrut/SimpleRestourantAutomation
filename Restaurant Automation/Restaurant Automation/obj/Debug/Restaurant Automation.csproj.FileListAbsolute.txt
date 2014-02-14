@@ -1,0 +1,16 @@
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\bin\Debug\Restaurant Automation.exe.config
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\bin\Debug\Restaurant Automation.exe
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\bin\Debug\Restaurant Automation.pdb
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant Automation.csprojResolveAssemblyReference.cache
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.Properties.Resources.resources
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant Automation.csproj.GenerateResource.Cache
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant Automation.exe
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant Automation.pdb
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.FormMain.resources
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.FormLogin.resources
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.FormAddingFood.resources
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.FormAddPersonel.resources
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.FormRezervation.resources
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.FormPayment.resources
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.FormReport.resources
+C:\Visual Projects\Restaurant Automation\Restaurant Automation\obj\Debug\Restaurant_Automation.FormChangePassword.resources
